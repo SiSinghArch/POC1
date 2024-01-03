@@ -1,0 +1,343 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 497,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1136,
+            "y": 5
+          },
+          "nodeIndex": "GMM",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1789,
+            "y": 5
+          },
+          "nodeIndex": "Index Group",
+          "nodeLineageTag": "229670d9-2d84-47b1-9617-f9320ef99202",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 624,
+            "y": 0
+          },
+          "nodeIndex": "Effective Date",
+          "nodeLineageTag": "1795bf35-2447-4885-8222-ec40ce1b4c29",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 623,
+            "y": 332
+          },
+          "nodeIndex": "Effective Date Month",
+          "nodeLineageTag": "a6aae15f-a7db-4c56-a608-8e29f8e5a2f8",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 877,
+            "y": 334
+          },
+          "nodeIndex": "Effective Date Quarter",
+          "nodeLineageTag": "6939f9a3-951f-4356-ab25-a00c9c5e6ad6",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1161,
+            "y": 330
+          },
+          "nodeIndex": "Effective Date Year 2",
+          "nodeLineageTag": "69ae941b-9b9d-4d74-b6a5-0b86b487510e",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1988,
+            "y": 79
+          },
+          "nodeIndex": "Effective Date Year 3",
+          "nodeLineageTag": "2983d3fb-a523-43ab-90c0-cfd9a13cd6e1",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2272,
+            "y": 79
+          },
+          "nodeIndex": "Team",
+          "nodeLineageTag": "18245d5b-cad7-4d6f-b154-53335db13547",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 194,
+            "y": 28
+          },
+          "nodeIndex": "Effective Date Most Recent",
+          "nodeLineageTag": "038bd7cf-a6cc-43f7-b26d-d648f741359e",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2840,
+            "y": 79
+          },
+          "nodeIndex": "Effective Date Year",
+          "nodeLineageTag": "44269c23-5008-476e-8ad5-8788d846c406",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 829,
+            "y": 187
+          },
+          "nodeIndex": "Split Legend",
+          "nodeLineageTag": "37314a4b-94e3-468f-a687-0244ff5d27f5",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1481,
+            "y": 252
+          },
+          "nodeIndex": "Split Metrics",
+          "nodeLineageTag": "6ce8b19b-d3aa-4c05-b91c-eef3f505de49",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3399,
+            "y": 169.5
+          },
+          "nodeIndex": "Parameter",
+          "nodeLineageTag": "ce2e4f72-9b7d-45c8-8b62-1407954923c4",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3399,
+            "y": 169.5
+          },
+          "nodeIndex": "Parameter Time",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1510.9166259765625,
+            "y": 5
+          },
+          "nodeIndex": "TR_DO_EPL_CLAIM_NOTICE_3YR_3_BIN",
+          "nodeLineageTag": "2acd2ed1-5ce1-4f37-8ae2-1e3361a139d3",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3038,
+            "y": 365.5
+          },
+          "nodeIndex": "D_NORTH_SOUTH_CA_TAG_BIN",
+          "nodeLineageTag": "c9a99881-3994-4dbf-9ed1-b7350daa41ee",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3390,
+            "y": 161.25
+          },
+          "nodeIndex": "DO_EPL_Crime",
+          "nodeLineageTag": "f4982559-2fe7-43a0-b1e6-7c6189e5874c",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1420,
+            "y": 103
+          },
+          "nodeIndex": "Measures Table",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3390,
+            "y": 185.25
+          },
+          "nodeIndex": "Price Index Metric Group",
+          "nodeLineageTag": "644380c6-29cb-4bac-b4d3-86acb4430368",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3712.18475118063,
+            "y": 0
+          },
+          "nodeIndex": "DimCalendar",
+          "nodeLineageTag": "a3e2d0ff-a942-49cc-a189-68986c0bf779",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 256.70910407464839
+          },
+          "nodeIndex": "DimCalendar Mth/Qtr",
+          "nodeLineageTag": "beb532b3-d8e7-4bfc-9666-44e16f949e53",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3433,
+            "y": 393.782554588671
+          },
+          "nodeIndex": "DimCalendar Qtr",
+          "nodeLineageTag": "8ea3b6b5-e821-47f6-b033-02b0ca0ca0d2",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3996.18475118063,
+            "y": 256.89127729433551
+          },
+          "nodeIndex": "test parameter",
+          "nodeLineageTag": "942819af-4072-4720-ad11-0229efe68ca4",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4280.18475118063,
+            "y": 280.89127729433551
+          },
+          "nodeIndex": "Score",
+          "nodeLineageTag": "f37cdb11-2e09-4730-8188-239f71064366",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4564.18475118063,
+            "y": 256.89127729433551
+          },
+          "nodeIndex": "Pricing Impact",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

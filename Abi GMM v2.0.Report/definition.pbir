@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Abi GMM v2.0.Dataset"
+    },
+    "byConnection": null
+  }
+}
